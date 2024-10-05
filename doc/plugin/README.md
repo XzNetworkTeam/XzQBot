@@ -72,7 +72,7 @@ module.exports = {
                     let seg_message = event.message;
                     let message_id = event.message_id;
                     let sender_name = event.sender.nickname;
-                    let sender_card = event.sender.card || message.sender.nickname;
+                    let sender_card = event.sender.card || event.sender.nickname;
                     
                     // 处理群聊消息
                 } else if (IS_PRIVATE) {
