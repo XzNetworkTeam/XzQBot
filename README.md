@@ -10,7 +10,7 @@
 
 ## 简述
 
-XzQBot 框架是基于 [llonebot](https://llonebot.github.io/zh-CN/develop/api) 和 Onebot 开发的可视化**应用端**。并由[FMaxCloud](https://www.fmaxc.cn)提供技术支持。
+XzQBot 框架是基于 [llonebot](https://llonebot.github.io/zh-CN/develop/api) 和 **OneBot** 开发的可视化**开发框架**，即**应用端**。并由[FMaxCloud](https://www.fmaxc.cn)提供技术支持。
 
 ## 使用
 
